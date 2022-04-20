@@ -41,8 +41,8 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 189, 93, 56;
-  --bs-secondary-rgb: 108, 117, 125;
+  --bs-primary-rgb: 96, 96, 96;
+  --bs-secondary-rgb: 160, 160, 160;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
   --bs-warning-rgb: 255, 193, 7;
@@ -237,11 +237,11 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #636363;
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color: #2a2828;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
